@@ -1,0 +1,12 @@
+{
+  "name": "newstime",
+  "version": "1.0.0",
+  "description": "News website for Garudaku Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
